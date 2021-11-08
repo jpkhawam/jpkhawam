@@ -1,8 +1,8 @@
 - 👋 Hey! I’m Jean-Paul Khawam, a very passionate Computer Science student, and an aspiring Game Developer/Software Engineer!
-- :fire: I am OBSESSED with Linux! I am currently using Kubuntu, but I've also been on Ubuntu, Pop!\_OS and openSUSE TumbleWeed,
-which makes me very eager to contribute one day alongside these Foundations/Companies, especially Red Hat and System76 :wink:
+- :fire: I am OBSESSED with Linux! I am currently using Fedora, but I've also been on Ubuntu, Pop!\_OS and openSUSE.
+I'm very eager to contribute one day alongside these companies, especially Red Hat and System76 :wink:
 - 🌱 I’m currently learning 
-  + Determined to master C++, major thanks to [LearnCpp.com](https://www.learncpp.com), check them out!
+  + C++, major thanks to [LearnCpp.com](https://www.learncpp.com), check them out!
   + Godot & GDScript, thanks to [GDQuest on Youtube](https://www.youtube.com/c/Gdquest)
   + Finishing my third (and final) year of Bachelor's at the Lebanese University
 - 📆 My long term plan:
