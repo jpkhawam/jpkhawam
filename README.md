@@ -4,8 +4,8 @@
 While game development is a major passion of mine, I also am eager to dig into more fields as a more general software engineer, especially seeing where I fit best in the Linux community.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpkhawam&show_icons=true&count_private=true&bg_color=00000000&text_color=3e73af&hide_border=true&hide_rank=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpkhawam&show_icons=true&count_private=true&bg_color=00000000&text_color=b07219&hide_border=true&hide_rank=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpkhawam&langs_count=10&layout=compact&bg_color=00000000&text_color=3e73af&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpkhawam&langs_count=10&layout=compact&bg_color=00000000&text_color=b07219&hide_border=true" />
 </a>
